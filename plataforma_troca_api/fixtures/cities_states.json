@@ -1,0 +1,1063 @@
+[
+    {
+        "model": "plataforma.Categoria",
+        "pk": 1,
+        "fields": {
+          "descricao": "Jogos de Tabuleiro"
+        }
+      },
+      {
+        "model": "plataforma.Categoria",
+        "pk": 2,
+        "fields": {
+          "descricao": "Jogos de VideoGame"
+        }
+      },
+      {
+        "model": "plataforma.Categoria",
+        "pk": 3,
+        "fields": {
+          "descricao": "Jogos infantis"
+        }
+      },
+      {
+        "model": "plataforma.SituacaoPost",
+        "pk": 1,
+        "fields": {
+          "descricao": "Aberto"
+        }
+      },
+      {
+        "model": "plataforma.SituacaoPost",
+        "pk": 2,
+        "fields": {
+          "descricao": "Negociando"
+        }
+      },
+      {
+        "model": "plataforma.SituacaoPost",
+        "pk": 3,
+        "fields": {
+          "descricao": "Fechado"
+        }
+      },
+      {
+        "model": "plataforma.SituacaoProposta",
+        "pk": 1,
+        "fields": {
+          "descricao": "Enviada"
+        }
+      },
+      {
+        "model": "plataforma.SituacaoProposta",
+        "pk": 2,
+        "fields": {
+          "descricao": "Negada"
+        }
+      },
+      {
+        "model": "plataforma.SituacaoProposta",
+        "pk": 3,
+        "fields": {
+          "descricao": "Aceita"
+        }
+      },
+      {
+        "model": "plataforma.SituacaoProposta",
+        "pk": 4,
+        "fields": {
+          "descricao": "Concluida"
+        }
+      },
+      {
+        "model": "plataforma.Estado",
+        "pk": 1,
+        "fields": {
+          "nome": "Acre"
+        }
+      },
+      {
+        "model": "plataforma.Estado",
+        "pk": 2,
+        "fields": {
+          "nome": "Alagoas"
+        }
+      },
+      {
+        "model": "plataforma.Estado",
+        "pk": 3,
+        "fields": {
+          "nome": "Amapá"
+        }
+      },
+      {
+        "model": "plataforma.Estado",
+        "pk": 4,
+        "fields": {
+          "nome": "Amazonas"
+        }
+      },
+      {
+        "model": "plataforma.Estado",
+        "pk": 5,
+        "fields": {
+          "nome": "Bahia"
+        }
+      },
+      {
+        "model": "plataforma.Estado",
+        "pk": 6,
+        "fields": {
+          "nome": "Ceará"
+        }
+      },
+      {
+        "model": "plataforma.Estado",
+        "pk": 7,
+        "fields": {
+          "nome": "Distrito Federal"
+        }
+      },
+      {
+        "model": "plataforma.Estado",
+        "pk": 8,
+        "fields": {
+          "nome": "Espírito Santo"
+        }
+      },
+      {
+        "model": "plataforma.Estado",
+        "pk": 9,
+        "fields": {
+          "nome": "Goiás"
+        }
+      },
+      {
+        "model": "plataforma.Estado",
+        "pk": 10,
+        "fields": {
+          "nome": "Maranhão"
+        }
+      },
+      {
+        "model": "plataforma.Estado",
+        "pk": 11,
+        "fields": {
+          "nome": "Mato Grosso"
+        }
+      },
+      {
+        "model": "plataforma.Estado",
+        "pk": 12,
+        "fields": {
+          "nome": "Mato Grosso do Sul"
+        }
+      },
+      {
+        "model": "plataforma.Estado",
+        "pk": 13,
+        "fields": {
+          "nome": "Minas Gerais"
+        }
+      },
+      {
+        "model": "plataforma.Estado",
+        "pk": 14,
+        "fields": {
+          "nome": "Pará"
+        }
+      },
+      {
+        "model": "plataforma.Estado",
+        "pk": 15,
+        "fields": {
+          "nome": "Paraíba"
+        }
+      },
+      {
+        "model": "plataforma.Estado",
+        "pk": 16,
+        "fields": {
+          "nome": "Paraná"
+        }
+      },
+      {
+        "model": "plataforma.Estado",
+        "pk": 17,
+        "fields": {
+          "nome": "Pernambuco"
+        }
+      },
+      {
+        "model": "plataforma.Estado",
+        "pk": 18,
+        "fields": {
+          "nome": "Piauí"
+        }
+      },
+      {
+        "model": "plataforma.Estado",
+        "pk": 19,
+        "fields": {
+          "nome": "Rio de Janeiro"
+        }
+      },
+      {
+        "model": "plataforma.Estado",
+        "pk": 20,
+        "fields": {
+          "nome": "Rio Grande do Norte"
+        }
+      },
+      {
+        "model": "plataforma.Estado",
+        "pk": 21,
+        "fields": {
+          "nome": "Rio Grande do Sul"
+        }
+      },
+      {
+        "model": "plataforma.Estado",
+        "pk": 22,
+        "fields": {
+          "nome": "Rondônia"
+        }
+      },
+      {
+        "model": "plataforma.Estado",
+        "pk": 23,
+        "fields": {
+          "nome": "Roraima"
+        }
+      },
+      {
+        "model": "plataforma.Estado",
+        "pk": 24,
+        "fields": {
+          "nome": "Santa Catarina"
+        }
+      },
+      {
+        "model": "plataforma.Estado",
+        "pk": 25,
+        "fields": {
+          "nome": "São Paulo"
+        }
+      },
+      {
+        "model": "plataforma.Estado",
+        "pk": 26,
+        "fields": {
+          "nome": "Sergipe"
+        }
+      },
+      {
+        "model": "plataforma.Estado",
+        "pk": 27,
+        "fields": {
+          "nome": "Tocantins"
+        }
+      },
+      {
+      "model": "plataforma.Cidade",
+      "pk": 1,
+      "fields": {
+        "nome": "São Paulo",
+        "estado": 25
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 2,
+      "fields": {
+        "nome": "Rio de Janeiro",
+        "estado": 19
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 3,
+      "fields": {
+        "nome": "Brasília",
+        "estado": 7
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 4,
+      "fields": {
+        "nome": "Salvador",
+        "estado": 5
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 5,
+      "fields": {
+        "nome": "Fortaleza",
+        "estado": 6
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 6,
+      "fields": {
+        "nome": "Belo Horizonte",
+        "estado": 13
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 7,
+      "fields": {
+        "nome": "Manaus",
+        "estado": 4
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 8,
+      "fields": {
+        "nome": "Curitiba",
+        "estado": 16
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 9,
+      "fields": {
+        "nome": "Recife",
+        "estado": 17
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 10,
+      "fields": {
+        "nome": "Goiânia",
+        "estado": 9
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 11,
+      "fields": {
+        "nome": "Belém",
+        "estado": 14
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 12,
+      "fields": {
+        "nome": "Porto Alegre",
+        "estado": 21
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 13,
+      "fields": {
+        "nome": "Guarulhos",
+        "estado": 25
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 14,
+      "fields": {
+        "nome": "Campinas",
+        "estado": 25
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 15,
+      "fields": {
+        "nome": "São Luís",
+        "estado": 10
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 16,
+      "fields": {
+        "nome": "São Gonçalo",
+        "estado": 19
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 17,
+      "fields": {
+        "nome": "Maceió",
+        "estado": 2
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 18,
+      "fields": {
+        "nome": "Duque de Caxias",
+        "estado": 19
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 19,
+      "fields": {
+        "nome": "Campo Grande",
+        "estado": 11
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 20,
+      "fields": {
+        "nome": "Natal",
+        "estado": 20
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 21,
+      "fields": {
+        "nome": "Teresina",
+        "estado": 18
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 22,
+      "fields": {
+        "nome": "São Bernardo do Campo",
+        "estado": 25
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 23,
+      "fields": {
+        "nome": "João Pessoa",
+        "estado": 15
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 24,
+      "fields": {
+        "nome": "Nova Iguaçu",
+        "estado": 19
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 25,
+      "fields": {
+        "nome": "São José dos Campos",
+        "estado": 25
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 26,
+      "fields": {
+        "nome": "Santo André",
+        "estado": 25
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 27,
+      "fields": {
+        "nome": "Ribeirão Preto",
+        "estado": 16
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 28,
+      "fields": {
+        "nome": "Jaboatão dos Guararapes",
+        "estado": 17
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 29,
+      "fields": {
+        "nome": "Uberlândia",
+        "estado": 13
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 30,
+      "fields": {
+        "nome": "Osasco",
+        "estado": 25
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 31,
+      "fields": {
+        "nome": "Sorocaba",
+        "estado": 25
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 32,
+      "fields": {
+        "nome": "Contagem",
+        "estado": 13
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 33,
+      "fields": {
+        "nome": "Aracaju",
+        "estado": 26
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 34,
+      "fields": {
+        "nome": "Feira de Santana",
+        "estado": 5
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 35,
+      "fields": {
+        "nome": "Cuiabá",
+        "estado": 10
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 36,
+      "fields": {
+        "nome": "Joinville",
+        "estado": 24
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 37,
+      "fields": {
+        "nome": "Aparecida de Goiânia",
+        "estado": 9
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 38,
+      "fields": {
+        "nome": "Londrina",
+        "estado": 16
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 39,
+      "fields": {
+        "nome": "Juiz de Fora",
+        "estado": 13
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 40,
+      "fields": {
+        "nome": "Porto Velho",
+        "estado": 22
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 41,
+      "fields": {
+        "nome": "Ananindeua",
+        "estado": 14
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 42,
+      "fields": {
+        "nome": "Serra",
+        "estado": 8
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 43,
+      "fields": {
+        "nome": "Caxias do Sul",
+        "estado": 21
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 44,
+      "fields": {
+        "nome": "Macapá",
+        "estado": 3
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 45,
+      "fields": {
+        "nome": "Niterói",
+        "estado": 19
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 46,
+      "fields": {
+        "nome": "Florianópolis",
+        "estado": 24
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 47,
+      "fields": {
+        "nome": "Belford Roxo",
+        "estado": 19
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 48,
+      "fields": {
+        "nome": "Campos dos Goytacazes",
+        "estado": 19
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 49,
+      "fields": {
+        "nome": "Vila Velha",
+        "estado": 8
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 50,
+      "fields": {
+        "nome": "Mauá",
+        "estado": 25
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 51,
+      "fields": {
+        "nome": "São João de Meriti",
+        "estado": 19
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 52,
+      "fields": {
+        "nome": "São José do Rio Preto",
+        "estado": 25
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 53,
+      "fields": {
+        "nome": "Mogi das Cruzes",
+        "estado": 25
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 54,
+      "fields": {
+        "nome": "Betim",
+        "estado": 13
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 55,
+      "fields": {
+        "nome": "Boa Vista",
+        "estado": 23
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 56,
+      "fields": {
+        "nome": "Maringá",
+        "estado": 16
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 57,
+      "fields": {
+        "nome": "Santos",
+        "estado": 25
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 58,
+      "fields": {
+        "nome": "Diadema",
+        "estado": 25
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 59,
+      "fields": {
+        "nome": "Jundiaí",
+        "estado": 25
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 60,
+      "fields": {
+        "nome": "Rio Branco",
+        "estado": 1
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 61,
+      "fields": {
+        "nome": "Montes Claros",
+        "estado": 13
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 62,
+      "fields": {
+        "nome": "Campina Grande",
+        "estado": 15
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 63,
+      "fields": {
+        "nome": "Piracicaba",
+        "estado": 25
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 64,
+      "fields": {
+        "nome": "Carapicuíba",
+        "estado": 25
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 65,
+      "fields": {
+        "nome": "Anápolis",
+        "estado": 9
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 66,
+      "fields": {
+        "nome": "Olinda",
+        "estado": 17
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 67,
+      "fields": {
+        "nome": "Cariacica",
+        "estado": 8
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 68,
+      "fields": {
+        "nome": "Bauru",
+        "estado": 25
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 69,
+      "fields": {
+        "nome": "Itaquaquecetuba",
+        "estado": 25
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 70,
+      "fields": {
+        "nome": "São Vicente",
+        "estado": 25
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 71,
+      "fields": {
+        "nome": "Vitória",
+        "estado": 8
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 72,
+      "fields": {
+        "nome": "Caruaru",
+        "estado": 17
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 73,
+      "fields": {
+        "nome": "Caucaia",
+        "estado": 6
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 74,
+      "fields": {
+        "nome": "Blumenau",
+        "estado": 24
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 75,
+      "fields": {
+        "nome": "Petrolina",
+        "estado": 17
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 76,
+      "fields": {
+        "nome": "Ponta Grossa",
+        "estado": 16
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 77,
+      "fields": {
+        "nome": "Franca",
+        "estado": 25
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 78,
+      "fields": {
+        "nome": "Canoas",
+        "estado": 21
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 79,
+      "fields": {
+        "nome": "Pelotas",
+        "estado": 21
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 80,
+      "fields": {
+        "nome": "Vitória da Conquista",
+        "estado": 5
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 81,
+      "fields": {
+        "nome": "Ribeirão das Neves",
+        "estado": 13
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 82,
+      "fields": {
+        "nome": "Uberaba",
+        "estado": 13
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 83,
+      "fields": {
+        "nome": "Paulista",
+        "estado": 17
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 84,
+      "fields": {
+        "nome": "Praia Grande",
+        "estado": 25
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 85,
+      "fields": {
+        "nome": "Cascavel",
+        "estado": 16
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 86,
+      "fields": {
+        "nome": "São José dos Pinhais",
+        "estado": 16
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 87,
+      "fields": {
+        "nome": "Guarujá",
+        "estado": 25
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 88,
+      "fields": {
+        "nome": "Taubaté",
+        "estado": 25
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 89,
+      "fields": {
+        "nome": "Palmas",
+        "estado": 27
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 90,
+      "fields": {
+        "nome": "Limeira",
+        "estado": 25
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 91,
+      "fields": {
+        "nome": "Camaçari",
+        "estado": 5
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 92,
+      "fields": {
+        "nome": "Santarém",
+        "estado": 14
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 93,
+      "fields": {
+        "nome": "Petrópolis",
+        "estado": 19
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 94,
+      "fields": {
+        "nome": "Mossoró",
+        "estado": 20
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 95,
+      "fields": {
+        "nome": "Suzano",
+        "estado": 25
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 96,
+      "fields": {
+        "nome": "Taboão da Serra",
+        "estado": 25
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 97,
+      "fields": {
+        "nome": "Várzea Grande",
+        "estado": 11
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 98,
+      "fields": {
+        "nome": "Sumaré",
+        "estado": 25
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 99,
+      "fields": {
+        "nome": "Marabá",
+        "estado": 14
+      }
+    },
+    {
+      "model": "plataforma.Cidade",
+      "pk": 100,
+      "fields": {
+        "nome": "Gravataí",
+        "estado": 21
+      }
+    }      
+]
+
+  
