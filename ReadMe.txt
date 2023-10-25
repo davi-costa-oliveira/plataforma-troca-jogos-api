@@ -1,12 +1,17 @@
+Como rodar o projeto localmente
+
+- Ter as dependencias Python e pip instaladas e configuradas carregatamente
+
+- Ativar o ambiente virtual
 .\envPi2\Scripts\activate
 
-py manage.py loaddata fixtures\cities_states.json
-
+- Criar as tabelas do banco de dados
 py manage.py makemigrations plataforma
 
 py manage.py migrate
 
+- Popular as tabelas com as informações base
+py manage.py loaddata fixtures\cities_states.json
+
+- Finalmente, rodar o projeto
 py manage.py runserver
-
-
-https://api.postman.com/collections/21621050-d299e21d-084e-4dff-9160-5e9faf33b65e?access_key=PMAT-01HDM7ZJTW5KZW4RQET20NP66T
