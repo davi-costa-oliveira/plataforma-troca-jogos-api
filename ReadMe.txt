@@ -14,7 +14,7 @@ py manage.py makemigrations plataforma
 py manage.py migrate
 
 - Popular as tabelas com as informações base
-py manage.py loaddata fixtures\cities_states.json
+py manage.py loaddata fixtures\fixtures.json
 
 - Finalmente, rodar o projeto
 py manage.py runserver
